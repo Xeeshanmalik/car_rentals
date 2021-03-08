@@ -29,3 +29,7 @@ OR
 3. jupyter notebook
 
 
+A1. If a user (not specified) has not rented a car for some number of days,e.g. N=4 days, what is the probability
+of re-rental the next day? Based on the whole population of users, plot the probability for N=1 to 100 days.
+
+re-rental prob. for the next day (0-100) = Number of Cust. re-rentals for N days / total number of Cust. rentals from the whole base
